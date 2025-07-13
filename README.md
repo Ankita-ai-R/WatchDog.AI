@@ -11,9 +11,11 @@ Each log message is analyzed for its **polarity score**, and categorized into:
 - 😐 **Neutral** — Informative but emotionally neutral  
 - 😞 **Negative** — Often correlate with failures, crashes, or alerts
 
+![Alert Visualization](/content/alert_distribution.png)
+
 ### 📊 Visualized Sentiment Distribution
 
-![Sentiment Chart](/content/assets/sentiment_bar_chart.png)
+![Sentiment Chart](assets/sentiment_bar_chart.png)
 
 > 💡 *This analysis helps prioritize which logs may require human attention based on emotional tone in addition to severity level.*
 
