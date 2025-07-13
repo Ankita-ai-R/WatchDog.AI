@@ -32,13 +32,13 @@ This graph shows how the system classifies two sample emotional log messages bas
 
 ### 📊 Bar Chart
 
-![Bar Chart - Sentiment](assets/sentiment_bar_chart.png)
+![Bar Chart - Sentiment](sentiment_bar_chart.png)
 
 ---
 
 ### 🥧 Pie Chart
 
-![Pie Chart - Sentiment](assets/sentiment_pie_chart.png)
+![Pie Chart - Sentiment](sentiment_pie_chart.png)
 
 ---
 
@@ -51,7 +51,7 @@ In parallel, we trained a machine learning model (Logistic Regression) to classi
 - `ERROR`
 - `CRITICAL`
 
-![Alert PLot - Sentiment](assets/content/alert_distribution.png)
+![Alert PLot - Sentiment](alert_distribution.png)
 
 ### 💫 Performance Summary:
 
