@@ -20,7 +20,6 @@ Each log message is analyzed for its **polarity score**, and categorized into:
 > 💡 *This analysis helps prioritize which logs may require human attention based on emotional tone in addition to severity level.*
 
 ---
-![Sentiment Chart](sentiment_chart.png)
 
 ## 📊 Analytics
 
