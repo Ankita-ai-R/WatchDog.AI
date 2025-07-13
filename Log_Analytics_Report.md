@@ -29,7 +29,6 @@ We used **TextBlob** to detect the emotional tone of each log message. Polarity 
 This graph shows how the system classifies two sample emotional log messages based on severity and sentiment:
 
 ![Dual Prediction Plot](assets/sample_dual_plot.png)
- 
 
 ### 📊 Bar Chart
 
